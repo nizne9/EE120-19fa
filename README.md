@@ -5,9 +5,28 @@ All course materials can be found [here](https://inst.eecs.berkeley.edu/~ee120/f
 
 Please note that [This repo](https://github.com/nizne9/EE120-19fa) exclusively contains my self-learning materials and is not officially affiliated with the course.
 
+All code has been formatted using `black`.
+
+## lab1
+Introduction to Python for Signals and Systems.
+
+## lab2
+Applications of LTI Filtering.
+
+## lab3
+The Fast Fourier Transform.
+
 ## lab4
-**Note:** `lab4` 所需的 4 个 `.npy` 文件存储在[百度网盘](https://pan.baidu.com/s/1a7YFCWma3-B8_fqoM4vijQ)中，因为文件过大，且 nizne9 太穷以至于无法承担 `git lfs` 的价格
+Non-Contact Heart Rate Monitoring.
 
-**链接**: https://pan.baidu.com/s/1a7YFCWma3-B8_fqoM4vijQ 
+**Note:** The 4 required `.npy` files for `lab4` are stored on [Baidu Netdisk](https://pan.baidu.com/s/1a7YFCWma3-B8_fqoM4vijQ). Due to their large size and the fact that nizne9 is too financially constrained to afford `git lfs`, they are hosted there.
 
-**提取码**: fa19
+**Link**: https://pan.baidu.com/s/1a7YFCWma3-B8_fqoM4vijQ
+
+**Password**: fa19
+
+## lab5
+Deconvolution.
+
+## lab6
+Control.
