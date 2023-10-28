@@ -3,7 +3,7 @@ This repository contains completed experiments from the "Signals and Systems" co
 
 All course materials can be found [here](https://inst.eecs.berkeley.edu/~ee120/fa19/).
 
-Please note that [This repo](https://github.com/nizne9/EE120-19fa) exclusively contains my self-learning materials and is not officially affiliated with the course.
+Please note that [this repo](https://github.com/nizne9/EE120-19fa) exclusively contains my self-learning materials and is not officially affiliated with the course.
 
 All code has been formatted using `black`.
 
